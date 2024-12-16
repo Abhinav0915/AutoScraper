@@ -3,3 +3,4 @@ env
 *.csv
 StaticScrapper.py
 json
+.env
