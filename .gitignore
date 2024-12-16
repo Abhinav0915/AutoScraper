@@ -1,0 +1,5 @@
+*.json
+env
+*.csv
+StaticScrapper.py
+json
